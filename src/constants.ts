@@ -3,8 +3,8 @@ import { OnlineClass } from "./types";
 
 export const COUNT_URL =
   "https://docs.google.com/forms/d/e/1FAIpQLScfdXP7ooX2xgf8j9ysEWLkN1NUbonNHc0PNMtzAKbITKTv9w/viewform";
-export const GITHUB_URL = "https://github.com/hoangvu12";
-export const FACEBOOK_URL = "https://www.facebook.com/nguyenvuzxc1/";
+export const GITHUB_URL = "http://thpttonducthang.gialai.edu.vn/";
+export const FACEBOOK_URL = "https://www.facebook.com/huuthe87/";
 
 export const ONLY_CLASSES = ["c1", "c2", "c3", "b1", "b2", "b3", "a1", "a2", "a3"] as const;
 
