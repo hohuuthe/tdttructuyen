@@ -60,139 +60,139 @@ export const TIMESTAMP = {
 export const ONLINE_CLASSES: OnlineClass[] = [
   {
     teacher: "Trần Văn Lượng",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/ixt-zvhg-cvf",
     subject: "Toán",
     teacherShortName: "Lượng",
   },
   {
     teacher: "Vũ Quốc Chánh",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/ztu-zxgu-yad",
     subject: "Văn",
     teacherShortName: "Chánh",
   },
   {
     teacher: "Phan Thế Cường",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/ntm-midy-gmx",
     subject: ["Văn", "Chào cờ", "SH Lớp"],
     teacherShortName: "Cường",
   },
   {
     teacher: "Trần Văn Tâm",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/nfo-euiz-bji",
     subject: ["Lịch Sử", "GDCD", "Chào cờ", "SH Lớp"],
     teacherShortName: "Tâm",
   },
   {
     teacher: "Nguyễn Trọng Thuận",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/rhf-catd-vbd",
     subject: ["Toán", "Chào cờ", "SH Lớp"],
     teacherShortName: "Thuận",
   },
   {
     teacher: "Võ Minh Tri",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/iyk-eqfy-urb",
     subject: ["Lý", "Kĩ Thuật"],
     teacherShortName: "Tri",
   },
   {
     teacher: "Trần Thị Hòa",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/kmz-cmef-xhq",
     subject: "Hóa",
     teacherShortName: "Hòa",
   },
   {
     teacher: "Lê Văn Hinh",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/npt-xqyj-pgo",
     subject: ["Lý", "Kĩ Thuật"],
     teacherShortName: "Hinh",
   },
   {
     teacher: "Bùi Quang Vĩnh",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/txh-xibq-caf",
     subject: "Thể Dục",
     teacherShortName: "Vĩnh",
   },
   {
     teacher: "Hồ Hữu Thế",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/hqe-eaey-iej",
     subject: ["Tin Nghề", "Chào cờ", "SH Lớp"],
     teacherShortName: "Thế",
   },
   {
     teacher: "Hồ Diên Minh",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/ggb-dvud-cuj",
     subject: "Toán",
     teacherShortName: "Minh",
   },
   {
     teacher: "Huỳnh Thị Minh Thư",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/nvz-gutn-ecu",
     subject: ["Ngoại Ngữ", "Chào cờ", "SH Lớp"],
     teacherShortName: "Thư",
   },
   {
     teacher: "Phan Thị Yến",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/keg-hdoe-cyj",
     subject: "Ngoại Ngữ",
     teacherShortName: "P.Yến",
   },
   {
     teacher: "Lê Xuân Tài",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/yaa-vgnw-qvs",
     subject: ["Tin Học", "Tin Nghề", "Chào cờ", "SH Lớp"],
     teacherShortName: "Tài",
   },
   {
     teacher: "Vũ Thị Hiền",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/gjq-hjnu-onf",
     subject: ["Lịch Sử", "GDCD", "Chào cờ", "SH Lớp"],
     teacherShortName: "Hiền",
   },
   {
     teacher: "Vũ Thị Thanh Hà",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/but-fvmp-kti",
     subject: ["Sinh", "Công Nghệ"],
     teacherShortName: "V.Hà",
   },
   {
     teacher: "Trần Thị Yến",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/scw-bapa-joi",
     subject: ["GDQP", "Chào cờ", "SH Lớp"],
     teacherShortName: "T.Yến",
   },
   {
     teacher: "Lê Thị Hà",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/prz-iwkm-ngz",
     subject: ["Văn", "Chào cờ", "SH Lớp"],
     teacherShortName: "L.Hà",
   },
   {
     teacher: "Mai Bích Thảo",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "http://meet.google.com/jwz-qhbt-fsr",
     subject: ["Tin Học", "Tin Nghề", "Chào cờ", "SH Lớp"],
     teacherShortName: "Thảo",
   },
   {
     teacher: "Lâm Thị Bích Trân",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/tws-wacj-chs",
     subject: "Lý",
     teacherShortName: "Trân",
   },
   {
     teacher: "Hoàng Cửu Thùy Uyên",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/bkg-rodh-nkm",
     subject: "Địa",
     teacherShortName: "Uyên",
   },
   {
     teacher: "Hồ Thị Thu Hương",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/jye-gcso-nbj",
     subject: "Văn",
     teacherShortName: "Hương",
   },
   {
     teacher: "Trần Mạnh Hùng",
-    url: "https://meet.google.com/ege-cemv-uvt",
+    url: "https://meet.google.com/fyw-pbjf-qeu",
     subject: "Toán",
     teacherShortName: "Hùng",
   },
@@ -230,7 +230,7 @@ export const TIMETABLE = {
       saturday: [
         { subject: "Lý", teacher: "Trân" },
         { subject: "Hóa", teacher: "Hòa" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "SH Lớp", teacher: "T.Yến" },
       ],
     },
@@ -264,7 +264,7 @@ export const TIMETABLE = {
       saturday: [
         { subject: "Lý", teacher: "Trân" },
         { subject: "Hóa", teacher: "Hòa" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "SH Lớp", teacher: "Hiền" },
       ],
     },
@@ -350,7 +350,7 @@ export const TIMETABLE = {
       ],
       wednesday: [
         { subject: "GDCD", teacher: "Tâm" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
       ],
       thursday: [
         { subject: "Văn", teacher: "Hương" },
@@ -384,7 +384,7 @@ export const TIMETABLE = {
       wednesday: [
         { subject: "Lý", teacher: "Trân" },
         { subject: "Lý", teacher: "Trân" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
       ],
       thursday: [
         { subject: "GDCD", teacher: "Tâm" },
@@ -392,7 +392,7 @@ export const TIMETABLE = {
         { subject: "Toán", teacher: "Hùng" },
       ],
       friday: [
-        { subject: "Ngoại Ngữ", teacher: "P.Yến" },
+        { subject: "Ngoại Ngữ", teacher: "Thư" },
         { subject: "Toán", teacher: "Hùng" },
         { subject: "Toán", teacher: "Hùng" },
       ],
@@ -461,12 +461,12 @@ export const TIMETABLE = {
       ],
       friday: [
         { subject: "Toán", teacher: "Thuận" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "Tin Học", teacher: "Tài" },
       ],
       saturday: [
         { subject: "Văn", teacher: "Cường" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "Hóa", teacher: "Hòa" },
         { subject: "SH Lớp", teacher: "Thuận" },
       ],
@@ -489,18 +489,18 @@ export const TIMETABLE = {
         { subject: "Ngoại Ngữ", teacher: "Thư" },
       ],
       thursday: [
-        { subject: "Toán", teacher: "Thuận" },
-        { subject: "Toán", teacher: "Thuận" },
+        { subject: "Toán", teacher: "Minh" },
+        { subject: "Toán", teacher: "Minh" },
         { subject: "GDCD", teacher: "Tâm" },
       ],
       friday: [
         { subject: "Toán", teacher: "Thuận" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "Tin Học", teacher: "Tài" },
       ],
       saturday: [
         { subject: "Văn", teacher: "Cường" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "Hóa", teacher: "Hòa" },
         { subject: "SH Lớp", teacher: "Cường" },
       ],
@@ -585,7 +585,7 @@ export const TIMETABLE = {
       ],
       wednesday: [
         { subject: "GDQP", teacher: "T.Yến" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
       ],
       thursday: [],
       friday: [],
@@ -603,7 +603,7 @@ export const TIMETABLE = {
       ],
       wednesday: [
         { subject: "GDQP", teacher: "T.Yến" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
       ],
       thursday: [],
       friday: [],
@@ -633,8 +633,8 @@ export const TIMETABLE = {
     },
     b2: {
       monday: [
-        { subject: "Ngoại Ngữ", teacher: "P.Yến" },
-        { subject: "Ngoại Ngữ", teacher: "P.Yến" },
+        { subject: "Ngoại Ngữ", teacher: "Thư" },
+        { subject: "Ngoại Ngữ", teacher: "Thư" },
       ],
       tuesday: [
         { subject: "Hóa", teacher: "Hòa" },
@@ -650,11 +650,7 @@ export const TIMETABLE = {
         { subject: "Tin Nghề", teacher: "Tài" },
         { subject: "Tin Nghề", teacher: "Tài" },
       ],
-      saturday: [
-        { subject: "Tin Nghề", teacher: "Thảo" },
-        { subject: "Tin Nghề", teacher: "Thảo" },
-        { subject: "Tin Nghề", teacher: "Thảo" },
-      ],
+      saturday: [],
     },
     b3: {
       monday: [
@@ -670,11 +666,7 @@ export const TIMETABLE = {
         { subject: "Thể Dục", teacher: "Vĩnh" },
       ],
       thursday: [],
-      friday: [
-        { subject: "Tin Nghề", teacher: "Tài" },
-        { subject: "Tin Nghề", teacher: "Tài" },
-        { subject: "Tin Nghề", teacher: "Tài" },
-      ],
+      friday: [],
       saturday: [
         { subject: "Tin Nghề", teacher: "Thảo" },
         { subject: "Tin Nghề", teacher: "Thảo" },
@@ -704,33 +696,10 @@ export const TIMETABLE = {
       ],
       saturday: [],
     },
-    a3: {
+	   a2: {
       monday: [
-        { subject: "Tin Nghề", teacher: "Thế" },
-        { subject: "Tin Nghề", teacher: "Thế" },
-        { subject: "Tin Nghề", teacher: "Thế" },
-      ],
-      tuesday: [],
-      wednesday: [
-        { subject: "Toán", teacher: "Thuận" },
-        { subject: "Lịch Sử", teacher: "Hiền" },
-        { subject: "Hóa", teacher: "Hòa" },
-      ],
-      thursday: [
-        { subject: "GDQP", teacher: "T.Yến" },
-        { subject: "GDQP", teacher: "T.Yến" },
-        { subject: "Lịch Sử", teacher: "Hiền" },
-      ],
-      friday: [
-        { subject: "Thể Dục", teacher: "Vĩnh" },
-        { subject: "Thể Dục", teacher: "Vĩnh" },
-      ],
-      saturday: [],
-    },
-    a2: {
-      monday: [
-        { subject: "Công Nghệ", teacher: "V.Hà" },
-        { subject: "Công Nghệ", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
+        { subject: "Sinh", teacher: "V.Hà" },
         { subject: "Lịch Sử", teacher: "Hiền" },
       ],
       tuesday: [
@@ -752,5 +721,29 @@ export const TIMETABLE = {
       ],
       saturday: [],
     },
+    a3: {
+      monday: [
+        { subject: "Tin Nghề", teacher: "Thế" },
+        { subject: "Tin Nghề", teacher: "Thế" },
+        { subject: "Tin Nghề", teacher: "Thế" },
+      ],
+      tuesday: [],
+      wednesday: [
+        { subject: "Toán", teacher: "Minh" },
+        { subject: "Lịch Sử", teacher: "Hiền" },
+        { subject: "Hóa", teacher: "Hòa" },
+      ],
+      thursday: [
+        { subject: "GDQP", teacher: "T.Yến" },
+        { subject: "GDQP", teacher: "T.Yến" },
+        { subject: "Lịch Sử", teacher: "Hiền" },
+      ],
+      friday: [
+        { subject: "Thể Dục", teacher: "Vĩnh" },
+        { subject: "Thể Dục", teacher: "Vĩnh" },
+      ],
+      saturday: [],
+    },
+ 
   },
 };
